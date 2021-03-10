@@ -1,4 +1,4 @@
-# Career Lab | Take-Home Assignment 
+# Career Lab | Take-Home Assignment ([Solution Demo](https://text-formatter.netlify.app/))
 
 This is the take home assignment that Collabies will complete before the technical review for Career Lab. 
 
